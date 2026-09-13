@@ -1,0 +1,6 @@
+{
+  "name": "KopiEats Finance & AI Hub",
+  "description": "Aplikasi keuangan coffee and eatery terintegrasi Groq AI WhatsApp ke Google Sheets via Apps Script, OCR scan struk otomatis, interactive reporting dashboards, P&L, Balance Sheet, Cash Flow, dan Analisis Finansial F&B.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
